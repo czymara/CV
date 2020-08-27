@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.14)  14 AUG 2020 12:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.27)  27 AUG 2020 12:26
 entering extended mode
 **./cczymara_cv.tex
 (cczymara_cv.tex
@@ -556,11 +556,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 214.
 Here is how much of TeX's memory you used:
  9676 strings out of 481178
  175835 string characters out of 2912525
- 435630 words of memory out of 3000000
+ 436630 words of memory out of 3000000
  25151 multiletter control sequences out of 15000+200000
  544645 words of font info for 61 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,8n,37p,517b,308s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,8n,37p,517b,408s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\czymara.local\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\czymara.lo
 cal\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0800.pk>{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips
 /fontawesome5/fa5brands1.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Program Files/
@@ -571,9 +571,9 @@ pe1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8
 .pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmti10.pfb>
-Output written on cczymara_cv.pdf (5 pages, 161137 bytes).
+Output written on cczymara_cv.pdf (5 pages, 161527 bytes).
 PDF statistics:
- 113 PDF objects out of 1000 (max. 8388607)
+ 114 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
