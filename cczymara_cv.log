@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.27)  27 AUG 2020 12:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.16)  16 SEP 2020 14:51
 entering extended mode
 **./cczymara_cv.tex
 (cczymara_cv.tex
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-08-07> ("C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
+L3 programming layer <2020-09-03> ("C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\size11.clo"
 File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
@@ -215,10 +215,10 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/fontawesome5\fontawesome5.sty"
 ("C:\Program Files\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty"
-Package: expl3 2020-08-07 L3 programming layer (loader) 
+Package: expl3 2020-09-03 L3 programming layer (loader) 
 
-(C:\Users\czymara.local\AppData\Roaming\MiKTeX\2.9\tex/latex/l3backend\l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2020-08-07 L3 backend support: PDF mode
+(C:\Users\czymara.local\AppData\Roaming\MiKTeX\2.9\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-01 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count193
 \l__pdf_internal_box=\box50
 ))
@@ -303,7 +303,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: pdftex.def on input line 147.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+File: pdftex.def 2020/08/26 v1.2 Graphics/color driver for pdftex
 
 ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -379,24 +379,27 @@ Package marginnote Info: xpos seems to be 128.891pt on input line 67.
 Package marginnote Info: Margin note 1.5 is on absolute page 1 on input line 74.
 Package marginnote Info: right page because not two side mode on input line 74.
 Package marginnote Info: xpos seems to be 128.891pt on input line 74.
-Package marginnote Info: Margin note 1.6 is on absolute page 1 on input line 76.
+Package marginnote Info: Margin note 1.6 is on absolute page 1 on input line 75.
+Package marginnote Info: right page because not two side mode on input line 75.
+Package marginnote Info: xpos seems to be 128.891pt on input line 75.
+Package marginnote Info: Margin note 1.7 is on absolute page 1 on input line 76.
 Package marginnote Info: right page because not two side mode on input line 76.
 Package marginnote Info: xpos seems to be 128.891pt on input line 76.
-Package marginnote Info: Margin note 1.7 is on absolute page 1 on input line 77.
+Package marginnote Info: Margin note 1.8 is on absolute page 1 on input line 77.
 Package marginnote Info: right page because not two side mode on input line 77.
 Package marginnote Info: xpos seems to be 128.891pt on input line 77.
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--80
+Underfull \hbox (badness 10000) in paragraph at lines 74--80
 
  []
 
-Package marginnote Info: Margin note 1.8 is on absolute page 1 on input line 82.
+Package marginnote Info: Margin note 1.9 is on absolute page 1 on input line 82.
 Package marginnote Info: right page because not two side mode on input line 82.
 Package marginnote Info: xpos seems to be 128.891pt on input line 82.
-Package marginnote Info: Margin note 1.9 is on absolute page 1 on input line 83.
+Package marginnote Info: Margin note 1.10 is on absolute page 1 on input line 83.
 Package marginnote Info: right page because not two side mode on input line 83.
 Package marginnote Info: xpos seems to be 128.891pt on input line 83.
-Package marginnote Info: Margin note 1.10 is on absolute page 1 on input line 84.
+Package marginnote Info: Margin note 1.11 is on absolute page 1 on input line 84.
 Package marginnote Info: right page because not two side mode on input line 84.
 Package marginnote Info: xpos seems to be 128.891pt on input line 84.
 
@@ -404,13 +407,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--85
 
  []
 
-Package marginnote Info: Margin note 1.11 is on absolute page 2 on input line 87.
+Package marginnote Info: Margin note 1.12 is on absolute page 2 on input line 87.
 Package marginnote Info: right page because not two side mode on input line 87.
 Package marginnote Info: xpos seems to be 128.891pt on input line 87.
-Package marginnote Info: Margin note 1.12 is on absolute page 2 on input line 88.
+Package marginnote Info: Margin note 1.13 is on absolute page 2 on input line 88.
 Package marginnote Info: right page because not two side mode on input line 88.
 Package marginnote Info: xpos seems to be 128.891pt on input line 88.
-Package marginnote Info: Margin note 1.13 is on absolute page 2 on input line 89.
+Package marginnote Info: Margin note 1.14 is on absolute page 2 on input line 89.
 Package marginnote Info: right page because not two side mode on input line 89.
 Package marginnote Info: xpos seems to be 128.891pt on input line 89.
 [1
@@ -537,14 +540,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 192--193
 
  []
 
-
+[4]
 Underfull \hbox (badness 10000) in paragraph at lines 194--195
 
  []
 
-[4]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 214.
- [5]
+[5]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 214.
  (cczymara_cv.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 214.
@@ -554,13 +556,13 @@ Package rerunfilecheck Info: File `cczymara_cv.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 214.
  ) 
 Here is how much of TeX's memory you used:
- 9676 strings out of 481178
- 175835 string characters out of 2912525
- 436630 words of memory out of 3000000
- 25151 multiletter control sequences out of 15000+200000
+ 9701 strings out of 481165
+ 176314 string characters out of 2912147
+ 438039 words of memory out of 3000000
+ 25189 multiletter control sequences out of 15000+200000
  544645 words of font info for 61 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,8n,37p,517b,408s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,8n,37p,544b,408s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\czymara.local\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\czymara.lo
 cal\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0800.pk>{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips
 /fontawesome5/fa5brands1.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Program Files/
@@ -571,7 +573,7 @@ pe1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8
 .pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmti10.pfb>
-Output written on cczymara_cv.pdf (5 pages, 161527 bytes).
+Output written on cczymara_cv.pdf (5 pages, 161302 bytes).
 PDF statistics:
  114 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
