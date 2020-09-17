@@ -25,6 +25,11 @@
 \renewcommand{\labelitemi}{\textendash} % damit aufzaehlungen nicht mit punkten sondern mit strichen sind
 
 \usepackage{enumitem} % damit kein abstand bei aufzaehlungen
+%\setlist[enumerate]{noitemsep, nolistsep} % bei zahlen
+\setlist[itemize]{noitemsep,nolistsep} % bei anderen listen
+
+\usepackage{etaremune} % reverse countings of lists
+%\setlist[etaremune]{itemsep=0pt,parsep=0pt}
 
 \usepackage[%dvipdfm,
 bookmarks, colorlinks, breaklinks,
@@ -94,34 +99,45 @@ GESIS-Methodenseminar: Text Mining with R
 \vskip-20pt{\noindent\rule{\textwidth}{1pt}}
 \subsection*{doctoral thesis}
 \years{2018}Czymara, C. S.: Discursive Determinants of Attitudes towards Immigrants: Political Parties and Mass Media as Contextual Sources of Threat Perceptions. Universitäts- und Stadtbibliothek Köln. \href{https://kups.ub.uni-koeln.de/9150}{https://kups.ub.uni-koeln.de/9150}
-\begin{itemize}[nolistsep]
+\begin{itemize}
 	\item Deutscher Studienpreis (shortlist), Körber Foundation
 \end{itemize}
 \hspace{1em}
 \subsection*{peer-reviewed journal articles}
-\textit{All code for published studies is available at \href{https://osf.io/b3ugm}{osf.io/b3ugm}}\\
+\textit{All code for published studies is available at \href{https://osf.io/b3ugm}{osf.io/b3ugm}}
+\begin{etaremune}[itemsep=0pt,parsep=0pt]
+\item \years{2020}
+Czymara, C. S. \& Eisentraut, M.: A threat to the Occident? Comparing human values of Muslim immigrants, Christian and non-religious natives in Western Europe. \textit{Frontiers in Sociology}. \href{https://doi.org/10.3389/fsoc.2020.538926}{https://doi.org/10.3389/fsoc.2020.538926}
+	\item Czymara, C. S. \& van Klingeren, M.: New perspective? Comparing Frame Occurrence in Online and Traditional News Media Reporting on Europe's ``Migration Crisis''. \textit{Communications: The European Journal of Communication Research}.
+	\item Czymara, C. S., Langenkamp, A. \& Cano, T.: Cause for Concerns: Gender Inequality in Experiencing the COVID-19 Lockdown in Germany. \textit{European Societies}. \href{https://doi.org/10.1080/14616696.2020.1808692}{https://doi.org/10.1080/14616696.2020.1808692}
+	\item Czymara, C. S.: Attitudes toward Refugees in Contemporary Europe: A Longitudinal Perspective on Cross-national Differences. \textit{Social Forces}. \href{https://doi.org/10.1093/sf/soaa055}{https://doi.org/ 10.1093/sf/soaa055}
+	\item Schmidt-Catran, A. W. \& Czymara, C. S.: ``Did you read about Berlin?'' Terrorist Attacks, Online Media Reporting and Support for Refugees in Germany. \textit{Soziale Welt} 71 (2 -- 3): 305 -- 337. \href{https://doi.org/10.5771/0038-6073-2020-1-2-201}{https://doi.org/10.5771/0038-6073-2020-1-2-201}
+	
+\item \years{2019}
+Czymara, C. S.: Propagated Preferences? Political Elite Discourses and Europeans’ Openness toward Muslim Immigrants. \textit{International Migration Review}. \href{https://doi.org/10.1177/0197918319890270}{https://doi. org/10.1177/0197918319890270}
 
-\years{2020}\textit{Czymara, C. S.} \& van Klingeren, M.: New perspective? Comparing Frame Occurrence in Online and Traditional News Media Reporting on Europe's ``Migration Crisis''. \textit{Communications: The European Journal of Communication Research}.\\
-\textit{Czymara, C. S.}, Langenkamp, A. \& Cano, T.: Cause for Concerns: Gender Inequality in Experiencing the COVID-19 Lockdown in Germany. \textit{European Societies}. \href{https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1808692}{https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1808692}\\
-Czymara, C. S.: Attitudes toward Refugees in Contemporary Europe: A Longitudinal Perspective on Cross-national Differences. \textit{Social Forces}. \href{https://doi.org/10.1093/sf/soaa055}{https://doi.org/ 10.1093/sf/soaa055}\\
-Schmidt-Catran, A. W. \& \textit{Czymara, C. S.}: ``Did you read about Berlin?'' Terrorist Attacks, Online Media Reporting and Support for Refugees in Germany. \textit{Soziale Welt} 71 (2 -- 3): 305 -- 337. \href{https://doi.org/10.5771/0038-6073-2020-1-2-201}{https://doi.org/10.5771/0038-6073-2020-1-2-201}\\
-\years{2019}Czymara, C. S.: Propagated Preferences? Political Elite Discourses and Europeans’ Openness toward Muslim Immigrants. \textit{International Migration Review}. \href{https://doi.org/10.1177/0197918319890270}{https://doi. org/10.1177/0197918319890270}\\
-\years{2018}\textit{Czymara, C. S.} \& Dochow, S.: Mass Media and Concerns about Immigration in Germany in the 21st Century: Individual-Level Evidence over 15 Years. \textit{European Sociological Review} 34 (4): 381 -- 401. \href{https://doi.org/10.1093/esr/jcy019}{https://doi.org/10.1093/esr/jcy019}\\
-\years{2017}\textit{Czymara, C. S.} \& Schmidt-Catran, A. W.: Refugees Unwelcome? Changes in the Public Acceptance of Immigrants and Refugees in Germany in the Course of Europe's ``Immigration Crisis''. \textit{European Sociological Review} 33 (6): 735 -- 751. \href{https://doi.org/10.1093/esr/jcx071}{https://doi.org/10.1093/esr/jcx071}
-\begin{itemize}[noitemsep,nolistsep]
+\item \years{2018}
+Czymara, C. S. \& Dochow, S.: Mass Media and Concerns about Immigration in Germany in the 21st Century: Individual-Level Evidence over 15 Years. \textit{European Sociological Review} 34 (4): 381 -- 401. \href{https://doi.org/10.1093/esr/jcy019}{https://doi.org/10.1093/esr/jcy019}
+
+\item \years{2017}
+Czymara, C. S. \& Schmidt-Catran, A. W.: Refugees Unwelcome? Changes in the Public Acceptance of Immigrants and Refugees in Germany in the Course of Europe's ``Immigration Crisis''. \textit{European Sociological Review} 33 (6): 735 -- 751. \href{https://doi.org/10.1093/esr/jcx071}{https://doi.org/10.1093/esr/jcx071}
+\begin{itemize}
 	\item Best Paper Award, Bamberg Graduate School of Social Sciences
 	\item Early Career Award (honorable mention), European Survey Research Association
 \end{itemize}
-\years{2016}\textit{Czymara, C. S.} \& Schmidt-Catran, A. W.: Wer ist in Deutschland willkommen? Eine Vignettenanalyse zur Akzeptanz von Einwanderern (Who is welcome in Germany? A Vignette Study on the Acceptance of Immigrants). \textit{K\"olner Zeitschrift f\"ur Soziologie und Sozialpsychologie} 68 (2): 193 -- 227. \href{https://doi.org/10.1007/s11577-016-0361-x}{https://doi.org/10.1007/s11577-016-0361-x}
-\begin{itemize}[nolistsep]
+
+\item \years{2016}
+Czymara, C. S. \& Schmidt-Catran, A. W.: Wer ist in Deutschland willkommen? Eine Vignettenanalyse zur Akzeptanz von Einwanderern (Who is welcome in Germany? A Vignette Study on the Acceptance of Immigrants). \textit{K\"olner Zeitschrift f\"ur Soziologie und Sozialpsychologie} 68 (2): 193 -- 227. \href{https://doi.org/10.1007/s11577-016-0361-x}{https://doi.org/10.1007/s11577-016-0361-x}
+\begin{itemize}
 	\item Preis der Fritz Thyssen Stiftung für sozialwissenschaftliche Aufsätze
 \end{itemize}
+\end{etaremune}
 \hspace{1em}
 \subsection*{research notes \& working papers}
 \years{2019}Breznau, N. et al.: The Crowdsourced Replication Initiative: Investigating Immigration and Social Policy Preferences using Meta-Science. Executive Report. \textit{SocArXiv}. \href{https://osf.io/preprints/socarxiv/6j9qb}{https://osf.io/preprints/socarxiv/6j9qb}\\
 \years{2018}Czymara, C. S. \& Schmidt-Catran, A. W.: Konfundierungen in Vignettenanalysen mit einzelnen d-effizienten Vignettenstichproben (Confounding in Vignette Studies with Single D-Efficient Vignette Samples). \textit{K\"olner Zeitschrift f\"ur Soziologie und Sozialpsychologie} 70 (1): 93 -- 103. \href{https://doi.org/10.1007/s11577-018-0516-z}{https://doi.org/10.1007/s11577-018-0516-z}\\
 \years{2014}Czymara, C. S.: How do Economic Wealth and the Relative Group-Size of Immigrants Affect Natives' Attitudes toward Immigration? \textit{Unpublished manuscript}
-\begin{itemize}[nolistsep]
+\begin{itemize}
 	\item Janet A. Harkness Student Paper Award, World Association for Public Opinion Research and American Association for Public Opinion Research
 \end{itemize}
 \section*{\textsc{selected presentations}}
